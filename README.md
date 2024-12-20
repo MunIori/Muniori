@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Erwin Munguia Poblano
+Soy un ingeniero en inteligencia artificial apasionado por resolver problemas mediante **visión por computadora** y **aprendizaje máquina**. Durante mis estudios, he trabajado en varios proyectos que combinan tecnologías innovadoras para mejorar la calidad de vida y optimizar procesos.
 
-<!--
-**MunIori/Muniori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Áreas de interés:
+- **Computer vision**
+- **Machine Learning**
+- **Natural Language Processing**
+- **Deep Learning**
+- **Digital Image Processing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Proyectos destacados:
+- [Trabajo Terminal](https://github.com/erwinmunguia): Proyecto científico en cómputo, orientado a la aplicación de la ingeniería en inteligencia artificial cuyo objeto de estudio es la verificación de información de las credenciales no inteligentes.
+- [DiaGnosis](https://github.com/erwinmunguia): Sitio web para orientar a usuarios sobre su potencial padecimiento de diabetes.
+
+---
+
+📧 **Contáctame**: [erwin_mp@outlook.com](erwin_mp@outlook.com)
