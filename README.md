@@ -13,7 +13,7 @@ Soy un ingeniero en inteligencia artificial apasionado por resolver problemas me
 ---
 
 ### 🌟 Proyectos destacados:
-- [Verificación de información en credenciales escolares mediante técnicas de visión artificial]([https://github.com/erwinmunguia](https://github.com/MunIori/Trabajo-Terminal): Proyecto científico en cómputo, orientado a la aplicación de la ingeniería en inteligencia artificial cuyo objeto de estudio es la verificación de información de las credenciales no inteligentes.
+- [Verificación de información en credenciales escolares mediante técnicas de visión artificial](https://github.com/MunIori/Trabajo-Terminal): Proyecto científico en cómputo, orientado a la aplicación de la ingeniería en inteligencia artificial cuyo objeto de estudio es la verificación de información de las credenciales no inteligentes.
 - [DiaGnosis](https://github.com/erwinmunguia): Sitio web para orientar a usuarios sobre su potencial padecimiento de diabetes.
 
 ---
